@@ -1,0 +1,15 @@
+C:\Users\vave1\Desktop\c#-.NET\Week7_ValentinaTrebbi\Week7_ValentinaTrebbiCode\Week7_ValentinaTrebbiCode\bin\Debug\net6.0\Week7_ValentinaTrebbiCode.exe
+C:\Users\vave1\Desktop\c#-.NET\Week7_ValentinaTrebbi\Week7_ValentinaTrebbiCode\Week7_ValentinaTrebbiCode\bin\Debug\net6.0\Week7_ValentinaTrebbiCode.deps.json
+C:\Users\vave1\Desktop\c#-.NET\Week7_ValentinaTrebbi\Week7_ValentinaTrebbiCode\Week7_ValentinaTrebbiCode\bin\Debug\net6.0\Week7_ValentinaTrebbiCode.runtimeconfig.json
+C:\Users\vave1\Desktop\c#-.NET\Week7_ValentinaTrebbi\Week7_ValentinaTrebbiCode\Week7_ValentinaTrebbiCode\bin\Debug\net6.0\Week7_ValentinaTrebbiCode.dll
+C:\Users\vave1\Desktop\c#-.NET\Week7_ValentinaTrebbi\Week7_ValentinaTrebbiCode\Week7_ValentinaTrebbiCode\bin\Debug\net6.0\Week7_ValentinaTrebbiCode.pdb
+C:\Users\vave1\Desktop\c#-.NET\Week7_ValentinaTrebbi\Week7_ValentinaTrebbiCode\Week7_ValentinaTrebbiCode\obj\Debug\net6.0\Week7_ValentinaTrebbiCode.csproj.AssemblyReference.cache
+C:\Users\vave1\Desktop\c#-.NET\Week7_ValentinaTrebbi\Week7_ValentinaTrebbiCode\Week7_ValentinaTrebbiCode\obj\Debug\net6.0\Week7_ValentinaTrebbiCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vave1\Desktop\c#-.NET\Week7_ValentinaTrebbi\Week7_ValentinaTrebbiCode\Week7_ValentinaTrebbiCode\obj\Debug\net6.0\Week7_ValentinaTrebbiCode.AssemblyInfoInputs.cache
+C:\Users\vave1\Desktop\c#-.NET\Week7_ValentinaTrebbi\Week7_ValentinaTrebbiCode\Week7_ValentinaTrebbiCode\obj\Debug\net6.0\Week7_ValentinaTrebbiCode.AssemblyInfo.cs
+C:\Users\vave1\Desktop\c#-.NET\Week7_ValentinaTrebbi\Week7_ValentinaTrebbiCode\Week7_ValentinaTrebbiCode\obj\Debug\net6.0\Week7_ValentinaTrebbiCode.csproj.CoreCompileInputs.cache
+C:\Users\vave1\Desktop\c#-.NET\Week7_ValentinaTrebbi\Week7_ValentinaTrebbiCode\Week7_ValentinaTrebbiCode\obj\Debug\net6.0\Week7_ValentinaTrebbiCode.dll
+C:\Users\vave1\Desktop\c#-.NET\Week7_ValentinaTrebbi\Week7_ValentinaTrebbiCode\Week7_ValentinaTrebbiCode\obj\Debug\net6.0\refint\Week7_ValentinaTrebbiCode.dll
+C:\Users\vave1\Desktop\c#-.NET\Week7_ValentinaTrebbi\Week7_ValentinaTrebbiCode\Week7_ValentinaTrebbiCode\obj\Debug\net6.0\Week7_ValentinaTrebbiCode.pdb
+C:\Users\vave1\Desktop\c#-.NET\Week7_ValentinaTrebbi\Week7_ValentinaTrebbiCode\Week7_ValentinaTrebbiCode\obj\Debug\net6.0\Week7_ValentinaTrebbiCode.genruntimeconfig.cache
+C:\Users\vave1\Desktop\c#-.NET\Week7_ValentinaTrebbi\Week7_ValentinaTrebbiCode\Week7_ValentinaTrebbiCode\obj\Debug\net6.0\ref\Week7_ValentinaTrebbiCode.dll
